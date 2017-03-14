@@ -1,0 +1,4 @@
+*.jpg
+build/*.cbp
+build/*.layout
+build/*.depend
